@@ -4,6 +4,7 @@
 
 <!--
 **softhints/softhints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## Fun
 
@@ -15,7 +16,7 @@
 - 📫 How to reach me: [Youtube](https://www.youtube.com/channel/UCg5rvP_D735oSBatdcH5ZFA)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Pandas dreams data!
--->
+
 
 ## I like to
 
